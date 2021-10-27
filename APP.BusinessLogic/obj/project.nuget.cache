@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mioyMUYHRU9E6aD+UbbJG9T2Xyw2tfhI5S3p19Rv3UHbm4pgzq4CwPJueMs0qfUYXZ6RQAWcxs5Yg64g4rUIKQ==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\My Files\\Interviews\\InterGraph\\APP.BusinessLogic\\APP.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melbasuony\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\melbasuony\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\Personal\My Files\Interviews\InterGraph\APP.Interfaces\bin\Debug\netstandard2.0\APP.Interfaces.deps.json
+D:\Personal\My Files\Interviews\InterGraph\APP.Interfaces\bin\Debug\netstandard2.0\APP.Interfaces.dll
+D:\Personal\My Files\Interviews\InterGraph\APP.Interfaces\bin\Debug\netstandard2.0\APP.Interfaces.pdb
+D:\Personal\My Files\Interviews\InterGraph\APP.Interfaces\bin\Debug\netstandard2.0\APP.Entities.dll
+D:\Personal\My Files\Interviews\InterGraph\APP.Interfaces\bin\Debug\netstandard2.0\APP.Entities.pdb
+D:\Personal\My Files\Interviews\InterGraph\APP.Interfaces\obj\Debug\netstandard2.0\APP.Interfaces.csprojAssemblyReference.cache
+D:\Personal\My Files\Interviews\InterGraph\APP.Interfaces\obj\Debug\netstandard2.0\APP.Interfaces.AssemblyInfoInputs.cache
+D:\Personal\My Files\Interviews\InterGraph\APP.Interfaces\obj\Debug\netstandard2.0\APP.Interfaces.AssemblyInfo.cs
+D:\Personal\My Files\Interviews\InterGraph\APP.Interfaces\obj\Debug\netstandard2.0\APP.Interfaces.csproj.CoreCompileInputs.cache
+D:\Personal\My Files\Interviews\InterGraph\APP.Interfaces\obj\Debug\netstandard2.0\APP.Interfaces.csproj.CopyComplete
+D:\Personal\My Files\Interviews\InterGraph\APP.Interfaces\obj\Debug\netstandard2.0\APP.Interfaces.dll
+D:\Personal\My Files\Interviews\InterGraph\APP.Interfaces\obj\Debug\netstandard2.0\APP.Interfaces.pdb

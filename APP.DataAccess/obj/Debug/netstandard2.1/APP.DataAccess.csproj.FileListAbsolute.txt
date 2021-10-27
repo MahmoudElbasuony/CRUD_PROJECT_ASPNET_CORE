@@ -1,0 +1,14 @@
+D:\Personal\My Files\Interviews\InterGraph\APP.DataAccess\bin\Debug\netstandard2.1\APP.Entities.dll
+D:\Personal\My Files\Interviews\InterGraph\APP.DataAccess\bin\Debug\netstandard2.1\APP.Interfaces.dll
+D:\Personal\My Files\Interviews\InterGraph\APP.DataAccess\obj\Debug\netstandard2.1\APP.DataAccess.csprojAssemblyReference.cache
+D:\Personal\My Files\Interviews\InterGraph\APP.DataAccess\obj\Debug\netstandard2.1\APP.DataAccess.AssemblyInfoInputs.cache
+D:\Personal\My Files\Interviews\InterGraph\APP.DataAccess\obj\Debug\netstandard2.1\APP.DataAccess.AssemblyInfo.cs
+D:\Personal\My Files\Interviews\InterGraph\APP.DataAccess\bin\Debug\netstandard2.1\APP.DataAccess.deps.json
+D:\Personal\My Files\Interviews\InterGraph\APP.DataAccess\bin\Debug\netstandard2.1\APP.DataAccess.dll
+D:\Personal\My Files\Interviews\InterGraph\APP.DataAccess\bin\Debug\netstandard2.1\APP.DataAccess.pdb
+D:\Personal\My Files\Interviews\InterGraph\APP.DataAccess\bin\Debug\netstandard2.1\APP.Interfaces.pdb
+D:\Personal\My Files\Interviews\InterGraph\APP.DataAccess\bin\Debug\netstandard2.1\APP.Entities.pdb
+D:\Personal\My Files\Interviews\InterGraph\APP.DataAccess\obj\Debug\netstandard2.1\APP.DataAccess.csproj.CoreCompileInputs.cache
+D:\Personal\My Files\Interviews\InterGraph\APP.DataAccess\obj\Debug\netstandard2.1\APP.DataAccess.csproj.CopyComplete
+D:\Personal\My Files\Interviews\InterGraph\APP.DataAccess\obj\Debug\netstandard2.1\APP.DataAccess.dll
+D:\Personal\My Files\Interviews\InterGraph\APP.DataAccess\obj\Debug\netstandard2.1\APP.DataAccess.pdb

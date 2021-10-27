@@ -1,0 +1,14 @@
+D:\Personal\My Files\Interviews\InterGraph\APP.BusinessLogic\obj\Debug\netstandard2.0\APP.BusinessLogic.csprojAssemblyReference.cache
+D:\Personal\My Files\Interviews\InterGraph\APP.BusinessLogic\obj\Debug\netstandard2.0\APP.BusinessLogic.AssemblyInfoInputs.cache
+D:\Personal\My Files\Interviews\InterGraph\APP.BusinessLogic\obj\Debug\netstandard2.0\APP.BusinessLogic.AssemblyInfo.cs
+D:\Personal\My Files\Interviews\InterGraph\APP.BusinessLogic\obj\Debug\netstandard2.0\APP.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Personal\My Files\Interviews\InterGraph\APP.BusinessLogic\bin\Debug\netstandard2.0\APP.BusinessLogic.deps.json
+D:\Personal\My Files\Interviews\InterGraph\APP.BusinessLogic\bin\Debug\netstandard2.0\APP.BusinessLogic.dll
+D:\Personal\My Files\Interviews\InterGraph\APP.BusinessLogic\bin\Debug\netstandard2.0\APP.BusinessLogic.pdb
+D:\Personal\My Files\Interviews\InterGraph\APP.BusinessLogic\bin\Debug\netstandard2.0\APP.Entities.dll
+D:\Personal\My Files\Interviews\InterGraph\APP.BusinessLogic\bin\Debug\netstandard2.0\APP.Interfaces.dll
+D:\Personal\My Files\Interviews\InterGraph\APP.BusinessLogic\bin\Debug\netstandard2.0\APP.Interfaces.pdb
+D:\Personal\My Files\Interviews\InterGraph\APP.BusinessLogic\bin\Debug\netstandard2.0\APP.Entities.pdb
+D:\Personal\My Files\Interviews\InterGraph\APP.BusinessLogic\obj\Debug\netstandard2.0\APP.BusinessLogic.csproj.CopyComplete
+D:\Personal\My Files\Interviews\InterGraph\APP.BusinessLogic\obj\Debug\netstandard2.0\APP.BusinessLogic.dll
+D:\Personal\My Files\Interviews\InterGraph\APP.BusinessLogic\obj\Debug\netstandard2.0\APP.BusinessLogic.pdb

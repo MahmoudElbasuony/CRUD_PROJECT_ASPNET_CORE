@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ny6Lm++pSoyFgQR3KsXSa+b+ufJ5a70PQM9KbPiy+tTry+DOpC4fDlFk7HyDDLSFR57/GBj+ukQz5L6oPl0Pcg==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\My Files\\Interviews\\InterGraph\\APP.Entities\\APP.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melbasuony\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\melbasuony\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

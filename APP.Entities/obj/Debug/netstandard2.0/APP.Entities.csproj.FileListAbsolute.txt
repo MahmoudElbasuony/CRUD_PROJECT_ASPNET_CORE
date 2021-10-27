@@ -1,0 +1,9 @@
+D:\Personal\My Files\Interviews\InterGraph\APP.Entities\bin\Debug\netstandard2.0\APP.Entities.deps.json
+D:\Personal\My Files\Interviews\InterGraph\APP.Entities\bin\Debug\netstandard2.0\APP.Entities.dll
+D:\Personal\My Files\Interviews\InterGraph\APP.Entities\bin\Debug\netstandard2.0\APP.Entities.pdb
+D:\Personal\My Files\Interviews\InterGraph\APP.Entities\obj\Debug\netstandard2.0\APP.Entities.csprojAssemblyReference.cache
+D:\Personal\My Files\Interviews\InterGraph\APP.Entities\obj\Debug\netstandard2.0\APP.Entities.AssemblyInfoInputs.cache
+D:\Personal\My Files\Interviews\InterGraph\APP.Entities\obj\Debug\netstandard2.0\APP.Entities.AssemblyInfo.cs
+D:\Personal\My Files\Interviews\InterGraph\APP.Entities\obj\Debug\netstandard2.0\APP.Entities.csproj.CoreCompileInputs.cache
+D:\Personal\My Files\Interviews\InterGraph\APP.Entities\obj\Debug\netstandard2.0\APP.Entities.dll
+D:\Personal\My Files\Interviews\InterGraph\APP.Entities\obj\Debug\netstandard2.0\APP.Entities.pdb
